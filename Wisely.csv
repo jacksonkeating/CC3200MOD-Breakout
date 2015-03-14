@@ -1,0 +1,14 @@
+ref	value	datasheet	footprint	Field1	Field2	Field3	Field4	Field5	Field6	Field7	Field8	Item count
+C1	10uF	~	~	~									1
+C2	15pF	~	~	~									1
+C3	10uF	~	~	~									1
+C4	1pF	~	~	~									1
+E1	AH316M245001-T												1
+J1	CONN_MICRO_USB	~	~	~									1
+J2,J3	CONN1	~	~	~									2
+L1,L2	FB	~	~	~									2
+L3	3.6nH	~	~	~									1
+R1	51k	~	~	~									1
+R2	30.1k	~	~	~									1
+U1	TPS79601	~	~	~	Texas Instruments	TPS79601DCQR	IC,VREG,LDO,1.2V-5.5V,2.7V-5.5V,--,6PIN,SOT-223						1
+U2	CC3200MOD												1
