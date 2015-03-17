@@ -801,7 +801,7 @@
     )
   )
 
-  (module CONN_MICRO_USB (layer F.Cu) (tedit 5505B986) (tstamp 5505BA2D)
+  (module CONN_MICRO_USB (layer F.Cu) (tedit 5505C1EC) (tstamp 5505BA2D)
     (at 119.126 118.11 180)
     (path /54952101)
     (fp_text reference J1 (at -0.0254 -4.4958 180) (layer F.SilkS)
@@ -843,7 +843,7 @@
       (layers F.Cu F.Paste F.Mask)
       (net 20 N-000003)
     )
-    (pad G2 thru_hole oval (at 2.5 -2.7 180) (size 1.25 0.95) (drill oval 0.85 0.55)
+    (pad G2 thru_hole oval (at 2.5 -2.7 180) (size 1.25 0.95) (drill 0.85)
       (layers *.Cu *.Mask F.SilkS)
       (net 5 GND)
     )
